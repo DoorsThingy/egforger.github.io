@@ -1,5 +1,5 @@
-# Eaglerrinth
-### Eaglerrinth is the place where you can get all MODDED Eagler needs! 
+# EgForger
+### EgForger is a fork of Eaglerrinth made to host more mods than the original.
 ### to do
 - [x] stuff
 - [x]  Add Dedicated Mod Creator Pages
@@ -8,4 +8,3 @@
 - [ ] Add Resource Packs
 - [ ] Make Backend
 - [ ] Add Client Mods
-- [ ] ~~Eliminate Skids~~
